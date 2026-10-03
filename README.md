@@ -28,13 +28,13 @@ The project aims to answer 12 business questions:
 ## Dataset
 
 * **Dataset:** Olist Brazilian E-Commerce Public Dataset
-* **Source:** Kaggle
+* **Source:** [Kaggle – Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * **Database:** MySQL 8.0
 * **Environment:** MySQL Workbench
 
 The dataset contains information about customers, orders, order items, payments, products, sellers, reviews, geolocation and product category translations.
 
-The raw data was imported into separate tables and processed through a structured SQL workflow.
+The raw CSV files were imported into separate tables and processed through a structured SQL workflow.
 
 ## Tools & Technologies
 
